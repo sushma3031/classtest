@@ -1,5 +1,6 @@
 public class simpleinterest{
     
+
     public static void main(String[]args)
     {
         int p=2000;
@@ -8,5 +9,8 @@ public class simpleinterest{
         int SI;
         SI=(p*t*r)/100;
         system.out.println("simpleinterest is"+SI);
+
+        system.out.println("Simple interest");
+
     }
 }
